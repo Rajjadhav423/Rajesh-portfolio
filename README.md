@@ -9,6 +9,8 @@ This project is a 3D portfolio built using React and Vite, showcasing various pr
 - **Responsive Design**: Styled with Tailwind CSS for a modern and responsive design.
 
 
+# preview       https://rajesh-portfolio-beta.vercel.app/
+
 ## Installation
 
 1. Clone the repository:
