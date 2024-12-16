@@ -123,7 +123,7 @@ const Hero = () => {
       </div>
 
       {/* Empty space placeholder */}
-      <div className="h-60 sm:h-64"></div>
+      <div className="h-72"></div>
 
       {/* Code section container with improved spacing */}
       <div className="px-4 sm:px-6 lg:px-8 mt-8 sm:mt-16">
@@ -160,7 +160,7 @@ const Hero = () => {
       </div>
 
       {/* Scroll indicator - adjusted for mobile */}
-      <div className='absolute bottom-10 w-full flex justify-center items-center'>
+      {/* <div className='absolute bottom-10 w-full flex justify-center items-center'>
         <a href='#about'>
           <div className='w-[30px] h-[54px] sm:w-[35px] sm:h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>
             <motion.div
@@ -176,7 +176,7 @@ const Hero = () => {
             />
           </div>
         </a>
-      </div>
+      </div> */}
     </section>
   );
 };
