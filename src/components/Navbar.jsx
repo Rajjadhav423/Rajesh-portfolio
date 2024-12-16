@@ -278,6 +278,7 @@ const Navbar = () => {
 
   const downloadResume = () => {
     const resumeUrl = "https://drive.google.com/file/d/1honhwcHh_zB5B7QO43DotgGabdVewLo3/view?usp=drive_link";
+    window.open(resumeUrl, "_blank");
     const link = document.createElement("a");
     link.href = resumeUrl;
     link.download = "Rajesh_Jadhav_Resume.pdf";
