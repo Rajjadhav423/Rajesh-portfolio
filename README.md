@@ -16,7 +16,7 @@ This project is a 3D portfolio built using React and Vite, showcasing various pr
    git clone https://github.com/Rajjadhav423/Rajesh-porrtfolio.git 
 
 2.   ```bash
-cd 3d_portfolio
+         cd 3d_portfolio
 
 3.  ```bash
       npm install
