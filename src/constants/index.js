@@ -21,6 +21,7 @@ import {
   Calories,
   studyNotion,
   solar,
+  thermo,
   collab,
 } from "../assets";
 
@@ -171,6 +172,9 @@ const testimonials = [
   },
 ];
 
+
+
+
 const projects = [
   {
     name: "Dual Axis Solar Tracking System",
@@ -249,6 +253,27 @@ const projects = [
     ],
     image: Calories,
     source_code_link: "https://github.com/Rajjadhav423",
+  },
+  {
+    name: "ThermoPrediction - Predicting Thermodynamic Properties of Seawater",
+    description:
+      "Collaborated with a scholar from BITS Pilani Goa to develop machine learning models for predicting thermodynamic properties of seawater. Designed regression models and applied data preprocessing techniques to achieve high accuracy in property prediction.",
+    tags: [
+      {
+        name: "machine learning",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "data analysis",
+        color: "green-text-gradient",
+      },
+      {
+        name: "python",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: thermo, // Replace with your image variable or path
+    source_code_link: "https://github.com/Rajjadhav423", // Update if specific repo link is available
   },
 ];
 

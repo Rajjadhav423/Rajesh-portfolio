@@ -21,6 +21,7 @@ import collab from './collab.png'
 import Calories from './Calories.png'
 import studyNotion from './studyNotion.png'
 import solar from './solar.png'
+import thermo from './thermo.png'
 
 
 
@@ -58,6 +59,7 @@ export {
   studyNotion,
   solar,
   collab,
+  thermo,
 
   logo,
   backend,
