@@ -339,7 +339,7 @@ const CodeSection = ({
 
          <Button active={ctabtn2.active} linkto={ctabtn2.linkto}>  
            <div className='text-black'>
-           {ctabtn2.btnText}
+           <div className='text-white'>{ctabtn2.btnText}</div>
            </div>
            <Code className="text-pure-greys-400 w-5 h-5" />
           </Button>
